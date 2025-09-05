@@ -22,9 +22,9 @@
 
 ## Ubuntu Principles to Implement
 
-**1. Community:** Your program should connect to the wider web community
-**2. Respect:** Handle errors gracefully without crashing
-**3. Community:** Your program should connect to the wider web community
-**4. Sharing:** Organize the fetched images for later sharing
-**5. Practicality:** Create a tool that serves a real need
+**1. Community:** Your program should connect to the wider web community <br>
+**2. Respect:** Handle errors gracefully without crashing<br>
+**3. Community:** Your program should connect to the wider web community<br>
+**4. Sharing:** Organize the fetched images for later sharing<br>
+**5. Practicality:** Create a tool that serves a real need<br>
 
